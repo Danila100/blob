@@ -1,5 +1,5 @@
 import {clamp, seedToRange, toDecimal} from './utils';
-import {CreatePolygon, CreatePolygon1, Point} from "./types";
+import { CreatePolygon1, Point} from "./types";
 
 const UNIT_CIRCLE = 2 * Math.PI;
 
