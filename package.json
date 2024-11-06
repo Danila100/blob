@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://Danila100.github.io/blob",
   "dependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.13.0",
     "@fontsource/inter": "^5.1.0",
